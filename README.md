@@ -1,8 +1,15 @@
 # Post 1 - Time Series Clustering
 
+Basic Instructions:
+===================
 
-
-
+The deliverable is a series of at least three blog posts written with Rmd/Notebook published on Github. Follow these steps:
+1. Create a public repository for hosting your final portfolio. Since the repository is public, do not post any sensitive or proprietary data/information.
+2. Connect your RStudio to Git and GitHub (see here (Links to an external site.)Links to an external site. for more instructions on how to do this).
+3. Write your post as an Rmd file making sure it uses the right output format (see here (Links to an external site.)Links to an external site. for detail)
+4. Push your posts to your Github repository and publish it (see here (Links to an external site.)Links to an external site. for example)
+5. Submit your posts' links to the assignment items on Canvas for grading: [Post 1] [Post 2] [Post 3]. Please note that you can submit the links earlier than your final published version and keep updating your post prior to the due date. We will print a version and use that version for grading.
+Each post needs to have a focus and show depth in analytical thinking. The target audience/reader is (imagined to be) one of the first-year MSBA students (or first-year PhD students not majoring in Analytics).
 
 
 Details from the data:
